@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "758961246785",
+    "firebase_url": "https://donaldpush-95273.firebaseio.com",
+    "project_id": "donaldpush-95273",
+    "storage_bucket": "donaldpush-95273.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758961246785:android:8eed3cc2326545c7",
+        "android_client_info": {
+          "package_name": "com.donald.push.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758961246785-p8rrj82gptnfale0hu2jhb5gfdvv6dh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-PNNuM8K4h5hDE1g-YxWp8JpYIggbRjc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
